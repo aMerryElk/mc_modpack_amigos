@@ -13,3 +13,8 @@
 O pack se manterá atualizado automaticamente toda vez que você iniciar o jogo.
 
 O IP do servidor já está incluído com o pack. Basta mandar uma mensagem no discord com seu username e colocamos você na whitelist.
+
+## Possíveis problemas
+- Às vezes, o jogo falha na iniciação com esse erro:
+![](docs/err1.png)
+Caso isso aconteça, é só tentar iniciar de novo. Infelizmente não temos como concertar isso no momento, já que depende de um PR em andamento no código de um dos mods.
