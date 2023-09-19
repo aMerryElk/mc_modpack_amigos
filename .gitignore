@@ -1,0 +1,8 @@
+# Archived releases folder
+archive/
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack

@@ -1,0 +1,13 @@
+name = "Amigos"
+author = "aMerryElk"
+version = "3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5c578770b253bb5c63e18b31a7461ca79f6b61c343a5dbc63d712b99fdd2b92a"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"
