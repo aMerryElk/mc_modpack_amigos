@@ -3,7 +3,7 @@
 1. Baixe o PrismLauncher [aqui](https://prismlauncher.org/download/)
     - Windows: ~~[Instale o Linux](https://garudalinux.org/downloads.html)~~ Baixe o PrismLauncher [aqui](https://prismlauncher.org/download/)
     - Linux: [Instale o PrismLauncher aqui](https://prismlauncher.org/download/linux). Parabéns pelo seu bom gosto em sistemas operacionais.
-2. Baixe o `.zip` com o pack [aqui]()
+2. Baixe o `.zip` com o pack [aqui](https://github.com/aMerryElk/mc_modpack_amigos/releases/download/stable/Amigos.zip) ou na lista de Releases ao lado
 3. Abra o PrismLauncher e clique em "Add Instance" e em seguida "Import". Selecione o `.zip` baixado e prossiga.
 4. Após importar, basta clicar no ícone do pack e ele baixará tudo automaticamente.
 5. **(Opcional)** - Selecione quais mods opcionais da lista você deseja instalar e clique Ok.

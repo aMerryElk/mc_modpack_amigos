@@ -1,5 +1,5 @@
 # Archived releases folder
-archive/
+RELEASES/
 
 # Exclude exported CurseForge zip files
 *.zip
