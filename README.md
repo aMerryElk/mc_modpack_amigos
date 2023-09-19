@@ -1,5 +1,7 @@
 # Como Instalar
 
+> **Atenção:** para essa instalação, é necessário uma conta oficial do Minecraft. Caso você não tenha, fale comigo no Discord e damos um jeito.
+
 1. Baixe o PrismLauncher [aqui](https://prismlauncher.org/download/)
     - Windows: ~~[Instale o Linux](https://garudalinux.org/downloads.html)~~ Baixe o PrismLauncher [aqui](https://prismlauncher.org/download/)
     - Linux: [Instale o PrismLauncher aqui](https://prismlauncher.org/download/linux). Parabéns pelo seu bom gosto em sistemas operacionais.
