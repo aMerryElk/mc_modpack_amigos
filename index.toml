@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "337f1579bc39589cba4c935417490008e90a9c0261e2f77111d4dbd6828718ea"
+
+[[files]]
 file = "config/clienttweaks-common.toml"
 hash = "7c865e527308ab485804d02c1ee3bf940030fd69f8eeddf79f09dbddfb90e660"
 
@@ -211,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "8d8e7600daf6f67d474a9382d37c004eb15f09a5e6639658969cbe6c4c56a83f"
+metafile = true
+
+[[files]]
+file = "mods/offlineskins.pw.toml"
+hash = "dba24d936ef75b6aad411a41cc9158289b08507318a8109dd5e93a9a75795406"
 metafile = true
 
 [[files]]
